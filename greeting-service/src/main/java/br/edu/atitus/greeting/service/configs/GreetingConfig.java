@@ -13,7 +13,6 @@ public class GreetingConfig {
 	public void setDefaultName(String defaultName) {
 		this.defaultName = defaultName;
 	}
-
 	private String greeting;
 	
 	private String defaultName;
